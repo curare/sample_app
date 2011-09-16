@@ -93,6 +93,13 @@ a.signup_button{
 	border-radius:10px;
 }
 
+.thick_border{
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:3px solid #208be1;
+}
+
 footer{
 	text-align:center;
 	margin-top:10px;
